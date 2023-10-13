@@ -1,2 +1,2 @@
 # Reversing-String
-Reversing String in Descending order using javascript
+Reversing String in same place using javascript
